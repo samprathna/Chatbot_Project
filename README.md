@@ -19,3 +19,5 @@ The dataset is a dataset downloaded from kaggle.com. It is a dataset containing 
 5- Input the vector/embedded_words       -> Goes into the neural network's blackbox <br>
 6- Classification                        -> 80\% confidence that the class for "How do I talk to someone" is 3 <br>
 7- Bot responds with reply for class = 3 -> "To contact a human agent, ..."
+
+![alt text](https://github.com/samprathna/Chatbot_Project/blob/main/images/example-using-chatbot.png)
